@@ -2,7 +2,7 @@
 
 - **Họ tên:**Lê Hồng Quân
 - **Lớp:**CNTT2
-- **Link repository Pha1:**https://github.com/LeHogQuan/K26-CNTT2_KyNangPromptAI_BaiTapOnLuyen/new/main
+- **Link repository Pha1:**[https://github.com/LeHogQuan/K26-CNTT2_KyNangPromptAI_BaiTapOnLuyen/new/main](https://github.com/LeHogQuan/K26-CNTT2_KyNangPromptAI_BaiTapOnLuyen/blob/main/bai_lam_pha_1.md)
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
